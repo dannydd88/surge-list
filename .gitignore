@@ -1,0 +1,7 @@
+# Vim
+.sw[pon]
+*.sw[pon]
+.*.sw[po]
+
+# Mac
+.DS_Store
