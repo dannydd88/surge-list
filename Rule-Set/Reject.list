@@ -8328,4 +8328,4 @@ IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 
 # > Microsoft
-DOMAIN-SUFFIX=,events.data.microsoft.com
+DOMAIN-SUFFIX,events.data.microsoft.com
