@@ -1,4 +1,7 @@
-# Ads in Video apps
+# reject list
+
+# > Microsoft
+DOMAIN-SUFFIX,events.data.microsoft.com
 
 # > iqiyi & pps
 DOMAIN-SUFFIX,a.ckm.iqiyi.com
@@ -8326,6 +8329,3 @@ IP-CIDR,124.14.21.151/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve
 IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
-
-# > Microsoft
-DOMAIN-SUFFIX,events.data.microsoft.com
