@@ -1,8 +1,5 @@
 # reject list
 
-# > Microsoft
-DOMAIN-SUFFIX,events.data.microsoft.com
-
 # > iqiyi & pps
 DOMAIN-SUFFIX,a.ckm.iqiyi.com
 DOMAIN-SUFFIX,ad.m.iqiyi.com
