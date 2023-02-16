@@ -1,0 +1,6 @@
+#!name=udp-priority
+#!desc=Surge will try to set udp a high priority to handle.
+#!system=mac
+
+[General]
+udp-priority = true

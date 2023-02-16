@@ -1,4 +1,4 @@
-#!name=IPv6
+#!name=ipv6
 #!desc=Enable IPv6 support.
 
 [General]

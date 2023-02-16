@@ -1,0 +1,10 @@
+#!name=fix-cn-icloud
+#!desc=Fix icloud sync cn issues
+
+
+[URL Rewrite]
+^https?:\/\/p213-contacts\.icloud\.com\/ https://p213-contacts.icloud.com.cn/ 302
+
+
+[MITM]
+hostname = %APPEND% p213-contacts.icloud.com

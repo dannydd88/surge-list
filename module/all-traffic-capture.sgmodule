@@ -1,0 +1,7 @@
+#!name=all-traffic-capture
+#!desc=Capture the request body and save permanently.
+
+[MITM]
+skip-server-cert-verify = true
+tcp-connection = true
+hostname = -*.apple.com, -*.icloud.com, *:0

@@ -1,0 +1,5 @@
+#!name=all-http-capture
+#!desc=Capture the request body and save permanently.
+
+[MITM]
+hostname = -*.apple.com, -*.icloud.com, *:0
